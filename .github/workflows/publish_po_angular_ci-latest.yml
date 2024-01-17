@@ -3,7 +3,7 @@ name: PO-UI Publish
 # URL para os pacotes po-ui no npm
 env:
   COMPONENTS_NPM_PATH: po-ui/ng-components
-  WORKING_DIR: /home/runner/work/po-angular/po-angular/po-angular
+  WORKING_DIR: /home/runner/work/po-angular-teste/po-angular-teste/po-angular
 
 on:
   workflow_dispatch:
